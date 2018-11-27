@@ -60,6 +60,8 @@ say("Goodbye", "Julio")
 
 say("Julio", "Goodbye")
 
+// Wrong command in lesson below?
+
 function add(x, y) {
   console.log(x + y)
 }

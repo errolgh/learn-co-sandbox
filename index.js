@@ -60,8 +60,10 @@ say("Goodbye", "Julio")
 
 say("Julio", "Goodbye")
 
+function add(x, y) {
+  return x + y
+}
 
-
-
+add(1, 2) 
 
 

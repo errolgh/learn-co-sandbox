@@ -68,6 +68,12 @@ function add(x, y) {
 
 add(1, 2)
 
+add(80, 9000)
+
+function square(number) {
+  return number * number;
+}
+
 
 
 

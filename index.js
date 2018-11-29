@@ -69,6 +69,16 @@ function add(x, y) {
 add(1, 2)
 
 
+if (100 === (903 + 10)) {
+  console.log("100 is equal to itself.")
+} else {
+  console.log("Your equation is incorrect.")
+}
 
+var Virginia = "crush"
 
-
+if (Virginia === "co-worker") {
+  console.log("Focusing on work.")
+} else {
+  console.log("Flirting with Virginia.")
+}
